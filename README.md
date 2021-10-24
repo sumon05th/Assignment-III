@@ -7,8 +7,8 @@ CSE Sec-A
 
 Assignment-3 
 
-CS-201
+CS-201 
 
 Data Structures
 
-# National Institute of Technology, Silchar Questions:-
+# National Institute of Technology, Silchar 
